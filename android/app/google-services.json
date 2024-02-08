@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657618500014",
+    "project_id": "get-well-ddfe4",
+    "storage_bucket": "get-well-ddfe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657618500014:android:8e8976a2e34c5a9a35303f",
+        "android_client_info": {
+          "package_name": "com.example.get_well"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657618500014-qpspj8lvutpd9c8saahvgke4u2rhmjrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0wTmKHPpKwuFsae5PxeLKEHNQyfXv--E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657618500014-qpspj8lvutpd9c8saahvgke4u2rhmjrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
